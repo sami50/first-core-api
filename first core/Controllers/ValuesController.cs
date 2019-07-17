@@ -41,5 +41,12 @@ namespace first_core.Controllers
         public void Delete(int id)
         {
         }
+
+        //[HttpGet]
+        //public string testsn()
+        //{
+        //    return "jhuhuh";
+        //}
+
     }
 }
